@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mr-Katussa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ mr constant..
+- 👀 I’m interested in electrical work 
+- 🌱 I’m currently learning machakos technical college 
+- 💞️ I’m looking to collaborate on engineering work
+- 📫 How to reach me 0791219080
 
 <!---
 Mr-Katussa/Mr-Katussa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
